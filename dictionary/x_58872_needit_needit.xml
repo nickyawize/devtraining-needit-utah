@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="edb8cffa474c0310a0948c64116d4399" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element choice="1" label="aaaa" max_length="40" name="aaaa" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="One" sequence="0" value="One"/>
+                <element inactive_on_update="false" label="Usse" sequence="1" value="Usse"/>
+            </choice>
+        </element>
+    </element>
+</database>
